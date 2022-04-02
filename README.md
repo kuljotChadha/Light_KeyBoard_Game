@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough (GIF)
-<img src="gametime.gif" width=250><br>
+<img src="gametime.gif"><br>
 
 
 
